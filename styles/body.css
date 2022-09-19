@@ -1,0 +1,95 @@
+.blog-body{
+  display: flex;
+  gap: 40px;
+}
+
+.blog-body__left u{
+  color: blue;
+}
+
+.blog-body__left{
+  flex:70%;
+
+}
+
+.blog-body__left p{
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.blog-body__right{
+  flex: 30%;
+}
+
+article {
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+hr{
+  margin-bottom: 1.5rem;
+  width: 95%
+}
+
+span{
+  color: blue;
+  text-decoration: underline;
+}
+
+.blog-body__box {
+  padding: 5px;
+  border-color: #524d4d;
+  border: 1px solid;
+}
+
+ol {
+  margin-left: 20px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+.body__button button{
+  border-radius: 8px;
+  padding: 5px;
+}
+
+.button__old{
+  color: blue;
+  border-color: blue;
+}
+
+.button__new{
+  color: #524d4d;
+  border-color: #524d4d;
+}
+
+.about-container{
+  background-color: lightblue;
+}
+
+.about-container__inside{
+  padding: 5px;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+.Archives{
+  margin-left: 1.5rem;
+  padding-bottom: 2rem;
+}
+
+.Archives h1{
+  padding-bottom: 1.4rem;
+}
+
+.elsewhere{
+  margin-left: 1.5rem;
+
+}
+
+.elsewhere a{
+    color: blue;
+  text-decoration: underline
+}
